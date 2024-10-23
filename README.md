@@ -49,6 +49,7 @@
   <li><strong>Email:</strong> <a href="mailto:potnisavdhoot@gmail.com">potnisavdhoot@gmail.com</a></li>
   <li><strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/avdhootpotnis">Avdhoot Potnis</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/avdhootpotnis">github.com/avdhootpotnis</a></li>
+  <li><strong>Medium:</strong> <a href="https://medium.com/@potnisavdhoot">medium.com/@potnisavdhoot</a></li>
 </ul>
 
 ---
